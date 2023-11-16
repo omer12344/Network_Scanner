@@ -1,0 +1,2887 @@
+IP 192.168.1.1 is open. 
+
+Creating object with IP 192.168.1.1 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.2 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.3 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.4 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.5 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.6 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.7 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.8 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.9 is not open.
+
+IP 192.168.1.10 is open. 
+
+Creating object with IP 192.168.1.10 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.11 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.12 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.13 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.14 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.15 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.16 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.17 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.18 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.19 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.20 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.21 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.22 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.23 is not open.
+
+IP 192.168.1.24 is open. 
+
+Creating object with IP 192.168.1.24 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.25 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.26 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.27 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.28 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.29 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.30 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.31 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.32 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.33 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.34 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.35 is not open.
+
+IP 192.168.1.36 is open. 
+
+Creating object with IP 192.168.1.36 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.37 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.38 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.39 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.40 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.41 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.42 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.43 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.44 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.45 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.46 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.47 is not open.
+
+IP 192.168.1.48 is open. 
+
+Creating object with IP 192.168.1.48 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.49 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.50 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.51 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.52 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.53 is not open.
+
+IP 192.168.1.54 is open. 
+
+Creating object with IP 192.168.1.54 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.55 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.56 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.57 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.58 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.59 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.60 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.61 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.62 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.63 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.64 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.65 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.66 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.67 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.68 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.69 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.70 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.71 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.72 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.73 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.74 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.75 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.76 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.77 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.78 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.79 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.80 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.81 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.82 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.83 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.84 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.85 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.86 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.87 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.88 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.89 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.90 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.91 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.92 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.93 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.94 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.95 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.96 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.97 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.98 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.99 is not open.
+
+IP 192.168.1.100 is open. 
+
+Creating object with IP 192.168.1.100 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.101 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.102 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.103 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.104 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.105 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.106 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.107 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.108 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.109 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.110 is not open.
+
+IP 192.168.1.111 is open. 
+
+Creating object with IP 192.168.1.111 and adding it to the list.
+
+IP 192.168.1.112 is open. 
+
+Creating object with IP 192.168.1.112 and adding it to the list.
+
+IP 192.168.1.113 is open. 
+
+Creating object with IP 192.168.1.113 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.114 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.115 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.116 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.117 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.118 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.119 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.120 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.121 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.122 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.123 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.124 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.125 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.126 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.127 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.128 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.129 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.130 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.131 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.132 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.133 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.134 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.135 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.136 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.137 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.138 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.139 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.140 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.141 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.142 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.143 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.144 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.145 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.146 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.147 is not open.
+
+IP 192.168.1.148 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.149 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.150 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.151 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.152 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.153 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.154 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.155 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.156 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.157 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.158 is not open.
+
+IP 192.168.1.159 is open. 
+
+Creating object with IP 192.168.1.159 and adding it to the list.
+
+IP 192.168.1.160 is open. 
+
+Creating object with IP 192.168.1.160 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.161 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.162 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.163 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.164 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.165 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.166 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.167 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.168 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.169 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.170 is not open.
+
+IP 192.168.1.171 is open. 
+
+Creating object with IP 192.168.1.171 and adding it to the list.
+
+IP 192.168.1.172 is open. 
+
+Creating object with IP 192.168.1.172 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.173 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.174 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.175 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.176 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.177 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.178 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.179 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.180 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.181 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.182 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.183 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.184 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.185 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.186 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.187 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.188 is not open.
+
+IP 192.168.1.189 is open. 
+
+Creating object with IP 192.168.1.189 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.190 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.191 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.192 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.193 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.194 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.195 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.196 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.197 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.198 is not open.
+
+IP 192.168.1.199 is open. 
+
+Creating object with IP 192.168.1.199 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.200 is not open.
+
+IP 192.168.1.201 is open. 
+
+Creating object with IP 192.168.1.201 and adding it to the list.
+
+IP 192.168.1.202 is open. 
+
+Creating object with IP 192.168.1.202 and adding it to the list.
+
+IP 192.168.1.203 is open. 
+
+Creating object with IP 192.168.1.203 and adding it to the list.
+
+IP 192.168.1.204 is open. 
+
+Creating object with IP 192.168.1.204 and adding it to the list.
+
+IP 192.168.1.205 is open. 
+
+Creating object with IP 192.168.1.205 and adding it to the list.
+
+IP 192.168.1.206 is open. 
+
+Creating object with IP 192.168.1.206 and adding it to the list.
+
+IP 192.168.1.207 is open. 
+
+Creating object with IP 192.168.1.207 and adding it to the list.
+
+IP 192.168.1.208 is open. 
+
+Creating object with IP 192.168.1.208 and adding it to the list.
+
+IP 192.168.1.209 is open. 
+
+Creating object with IP 192.168.1.209 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.210 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.211 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.212 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.213 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.214 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.215 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.216 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.217 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.218 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.219 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.220 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.221 is not open.
+
+IP 192.168.1.222 is open. 
+
+Creating object with IP 192.168.1.222 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.223 is not open.
+
+IP 192.168.1.224 is open. 
+
+Creating object with IP 192.168.1.224 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.225 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.226 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.227 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.228 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.229 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.230 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.231 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.232 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.233 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.234 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.235 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.236 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.237 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.238 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.239 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.240 is not open.
+
+IP 192.168.1.241 is open. 
+
+Creating object with IP 192.168.1.241 and adding it to the list.
+
+IP 192.168.1.242 is open. 
+
+Creating object with IP 192.168.1.242 and adding it to the list.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.243 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.244 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.245 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.246 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.247 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.248 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.249 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.250 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.251 is not open.
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+IP 192.168.1.252 is not open.
+
+IP 192.168.1.253 is not open.
+
+IP 192.168.1.254 is open. 
+
+Creating object with IP 192.168.1.254 and adding it to the list.
+
+No response from port 22
+
+No response from port 23
+
+This port is open: 53
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.1 and port 53
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.1 and port 80
+
+This port is open: 443
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.1 and port 443
+
+No response from port 23
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.10 and port 80
+
+No response from port 975
+
+No response from port 23
+
+No response from port 23
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.36 and port 80
+
+No response from port 23
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+No response from port 20
+
+No response from port 21
+
+No response from port 22
+
+No response from port 23
+
+No response from port 24
+
+No response from port 25
+
+No response from port 26
+
+No response from port 27
+
+No response from port 28
+
+No response from port 29
+
+No response from port 30
+
+No response from port 31
+
+No response from port 32
+
+No response from port 33
+
+No response from port 34
+
+No response from port 35
+
+No response from port 36
+
+No response from port 37
+
+No response from port 38
+
+No response from port 39
+
+No response from port 40
+
+No response from port 41
+
+No response from port 42
+
+No response from port 43
+
+No response from port 44
+
+No response from port 45
+
+No response from port 46
+
+No response from port 47
+
+No response from port 48
+
+No response from port 49
+
+No response from port 50
+
+No response from port 51
+
+No response from port 52
+
+No response from port 53
+
+No response from port 54
+
+No response from port 55
+
+No response from port 761
+
+No response from port 817
+
+No response from port 818
+
+No response from port 819
+
+No response from port 820
+
+No response from port 821
+
+No response from port 822
+
+No response from port 823
+
+No response from port 824
+
+No response from port 825
+
+No response from port 826
+
+No response from port 827
+
+No response from port 828
+
+No response from port 829
+
+No response from port 830
+
+No response from port 831
+
+No response from port 832
+
+No response from port 833
+
+No response from port 834
+
+No response from port 835
+
+No response from port 836
+
+No response from port 837
+
+No response from port 838
+
+No response from port 839
+
+No response from port 840
+
+No response from port 841
+
+No response from port 842
+
+No response from port 843
+
+No response from port 844
+
+No response from port 845
+
+No response from port 846
+
+No response from port 847
+
+No response from port 848
+
+No response from port 849
+
+No response from port 850
+
+No response from port 851
+
+No response from port 852
+
+No response from port 853
+
+No response from port 854
+
+No response from port 855
+
+No response from port 856
+
+No response from port 857
+
+No response from port 858
+
+No response from port 859
+
+No response from port 860
+
+No response from port 861
+
+No response from port 862
+
+No response from port 863
+
+No response from port 864
+
+No response from port 865
+
+No response from port 866
+
+No response from port 867
+
+No response from port 868
+
+No response from port 869
+
+No response from port 870
+
+No response from port 871
+
+No response from port 872
+
+No response from port 873
+
+No response from port 874
+
+No response from port 875
+
+No response from port 876
+
+No response from port 877
+
+No response from port 878
+
+No response from port 879
+
+No response from port 880
+
+No response from port 881
+
+No response from port 882
+
+No response from port 883
+
+No response from port 884
+
+No response from port 885
+
+No response from port 886
+
+No response from port 887
+
+No response from port 888
+
+No response from port 889
+
+No response from port 890
+
+No response from port 891
+
+No response from port 892
+
+WARNING: Mac address to reach destination not found. Using broadcast.
+No response from port 893
+
+No response from port 894
+
+No response from port 895
+
+No response from port 896
+
+No response from port 897
+
+No response from port 898
+
+No response from port 899
+
+No response from port 900
+
+No response from port 901
+
+No response from port 902
+
+No response from port 903
+
+No response from port 904
+
+No response from port 905
+
+No response from port 906
+
+No response from port 907
+
+No response from port 908
+
+No response from port 909
+
+No response from port 910
+
+No response from port 911
+
+No response from port 912
+
+No response from port 913
+
+No response from port 914
+
+No response from port 915
+
+No response from port 916
+
+No response from port 917
+
+No response from port 918
+
+No response from port 919
+
+No response from port 920
+
+No response from port 921
+
+No response from port 922
+
+No response from port 923
+
+No response from port 924
+
+No response from port 925
+
+No response from port 926
+
+No response from port 927
+
+No response from port 928
+
+No response from port 929
+
+No response from port 23
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.100 and port 80
+
+No response from port 23
+
+This port is open: 53
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.111 and port 53
+
+This port is open: 853
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.111 and port 853
+
+This port is open: 22
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.112 and port 22
+
+No response from port 23
+
+This port is open: 22
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.113 and port 22
+
+No response from port 23
+
+No response from port 23
+
+This port is open: 53
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.159 and port 53
+
+This port is open: 853
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.159 and port 853
+
+No response from port 23
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.160 and port 80
+
+This port is open: 443
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.160 and port 443
+
+This port is open: 515
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.160 and port 515
+
+This port is open: 631
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.160 and port 631
+
+No response from port 23
+
+No response from port 23
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.172 and port 80
+
+No response from port 23
+
+No response from port 23
+
+This port is open: 53
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.199 and port 53
+
+This port is open: 853
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.199 and port 853
+
+No response from port 23
+
+This port is open: 28
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.201 and port 28
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.201 and port 80
+
+This port is open: 554
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.201 and port 554
+
+No response from port 23
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.202 and port 80
+
+This port is open: 554
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.202 and port 554
+
+No response from port 23
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.203 and port 80
+
+This port is open: 554
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.203 and port 554
+
+No response from port 23
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.204 and port 80
+
+This port is open: 554
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.204 and port 554
+
+No response from port 23
+
+No response from port 23
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.206 and port 80
+
+This port is open: 554
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.206 and port 554
+
+No response from port 23
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.207 and port 80
+
+This port is open: 554
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.207 and port 554
+
+No response from port 23
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.208 and port 80
+
+This port is open: 554
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.208 and port 554
+
+No response from port 23
+
+No response from port 23
+
+No response from port 23
+
+This port is open: 80
+Creating a client-server communication
+Normal connection established successfully between IP 192.168.1.224 and port 80
+
+No response from port 23
+
+No response from port 23
+
+No response from port 23
+
+No response from port 115
+
+No response from port 214
+
+No response from port 309
+
+No response from port 416
+
+No response from port 504
+
+No response from port 590
+
+No response from port 688
+
+No response from port 780
+
+No response from port 878
+
+No response from port 975
+
+for ip number 192.168.1.1 these ports are open:
+53
+
+80
+
+443
+
+for ip number 192.168.1.10 these ports are open:
+80
+
+for ip number 192.168.1.24 these ports are open:
+None
+for ip number 192.168.1.36 these ports are open:
+80
+
+for ip number 192.168.1.48 these ports are open:
+None
+for ip number 192.168.1.54 these ports are open:
+None
+for ip number 192.168.1.100 these ports are open:
+80
+
+for ip number 192.168.1.111 these ports are open:
+53
+
+853
+
+for ip number 192.168.1.112 these ports are open:
+22
+
+for ip number 192.168.1.113 these ports are open:
+22
+
+for ip number 192.168.1.159 these ports are open:
+53
+
+853
+
+for ip number 192.168.1.160 these ports are open:
+80
+
+443
+
+515
+
+631
+
+for ip number 192.168.1.171 these ports are open:
+None
+for ip number 192.168.1.172 these ports are open:
+80
+
+for ip number 192.168.1.189 these ports are open:
+None
+for ip number 192.168.1.199 these ports are open:
+53
+
+853
+
+for ip number 192.168.1.201 these ports are open:
+28
+
+80
+
+554
+
+for ip number 192.168.1.202 these ports are open:
+80
+
+554
+
+for ip number 192.168.1.203 these ports are open:
+80
+
+554
+
+for ip number 192.168.1.204 these ports are open:
+80
+
+554
+
+for ip number 192.168.1.205 these ports are open:
+None
+for ip number 192.168.1.206 these ports are open:
+80
+
+554
+
+for ip number 192.168.1.207 these ports are open:
+80
+
+554
+
+for ip number 192.168.1.208 these ports are open:
+80
+
+554
+
+for ip number 192.168.1.209 these ports are open:
+None
+for ip number 192.168.1.222 these ports are open:
+None
+for ip number 192.168.1.224 these ports are open:
+80
+
+for ip number 192.168.1.241 these ports are open:
+None
+for ip number 192.168.1.242 these ports are open:
+None
+for ip number 192.168.1.254 these ports are open:
+None
+sniffing...
+sniffed all packets
+From layer: Application
+From protocol DNS, the number of packets: 2
+From protocol HTTP, the number of packets: 0
+From layer: Transport
+From protocol TCP, the number of packets: 166
+From protocol UDP, the number of packets: 834
+From layer: Network
+From protocol DHCP, the number of packets: 0
+From protocol ICMP, the number of packets: 0
+From layer: Link layer
+From protocol ARP, the number of packets: 0
+From protocol Ethernet, the number of packets: 1000
+
+On the local network, IP 192.168.1.1 sent: 0 packets
+The local IP 192.168.1.1 sent this many DHCP packets: 0
+The local IP 192.168.1.1 sent this many transport layer packets: 0
+This local IP 192.168.1.1 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.1 received: 0 packets
+The local IP 192.168.1.1 received this many DHCP packets: 0
+The local IP 192.168.1.1 received this many transport layer packets: 0
+This local IP 192.168.1.1 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.10 sent: 0 packets
+The local IP 192.168.1.10 sent this many DHCP packets: 0
+The local IP 192.168.1.10 sent this many transport layer packets: 0
+This local IP 192.168.1.10 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.10 received: 0 packets
+The local IP 192.168.1.10 received this many DHCP packets: 0
+The local IP 192.168.1.10 received this many transport layer packets: 0
+This local IP 192.168.1.10 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.24 sent: 1 packets
+The local IP 192.168.1.24 sent this many DHCP packets: 1
+The local IP 192.168.1.24 sent this many transport layer packets: 0
+This local IP 192.168.1.24 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.24 received: 0 packets
+The local IP 192.168.1.24 received this many DHCP packets: 0
+The local IP 192.168.1.24 received this many transport layer packets: 0
+This local IP 192.168.1.24 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.36 sent: 0 packets
+The local IP 192.168.1.36 sent this many DHCP packets: 0
+The local IP 192.168.1.36 sent this many transport layer packets: 0
+This local IP 192.168.1.36 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.36 received: 0 packets
+The local IP 192.168.1.36 received this many DHCP packets: 0
+The local IP 192.168.1.36 received this many transport layer packets: 0
+This local IP 192.168.1.36 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.48 sent: 0 packets
+The local IP 192.168.1.48 sent this many DHCP packets: 0
+The local IP 192.168.1.48 sent this many transport layer packets: 0
+This local IP 192.168.1.48 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.48 received: 0 packets
+The local IP 192.168.1.48 received this many DHCP packets: 0
+The local IP 192.168.1.48 received this many transport layer packets: 0
+This local IP 192.168.1.48 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.54 sent: 0 packets
+The local IP 192.168.1.54 sent this many DHCP packets: 0
+The local IP 192.168.1.54 sent this many transport layer packets: 0
+This local IP 192.168.1.54 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.54 received: 0 packets
+The local IP 192.168.1.54 received this many DHCP packets: 0
+The local IP 192.168.1.54 received this many transport layer packets: 0
+This local IP 192.168.1.54 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.100 sent: 0 packets
+The local IP 192.168.1.100 sent this many DHCP packets: 0
+The local IP 192.168.1.100 sent this many transport layer packets: 0
+This local IP 192.168.1.100 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.100 received: 0 packets
+The local IP 192.168.1.100 received this many DHCP packets: 0
+The local IP 192.168.1.100 received this many transport layer packets: 0
+This local IP 192.168.1.100 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.111 sent: 0 packets
+The local IP 192.168.1.111 sent this many DHCP packets: 0
+The local IP 192.168.1.111 sent this many transport layer packets: 0
+This local IP 192.168.1.111 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.111 received: 0 packets
+The local IP 192.168.1.111 received this many DHCP packets: 0
+The local IP 192.168.1.111 received this many transport layer packets: 0
+This local IP 192.168.1.111 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.112 sent: 0 packets
+The local IP 192.168.1.112 sent this many DHCP packets: 0
+The local IP 192.168.1.112 sent this many transport layer packets: 0
+This local IP 192.168.1.112 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.112 received: 0 packets
+The local IP 192.168.1.112 received this many DHCP packets: 0
+The local IP 192.168.1.112 received this many transport layer packets: 0
+This local IP 192.168.1.112 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.113 sent: 0 packets
+The local IP 192.168.1.113 sent this many DHCP packets: 0
+The local IP 192.168.1.113 sent this many transport layer packets: 0
+This local IP 192.168.1.113 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.113 received: 0 packets
+The local IP 192.168.1.113 received this many DHCP packets: 0
+The local IP 192.168.1.113 received this many transport layer packets: 0
+This local IP 192.168.1.113 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.159 sent: 0 packets
+The local IP 192.168.1.159 sent this many DHCP packets: 0
+The local IP 192.168.1.159 sent this many transport layer packets: 0
+This local IP 192.168.1.159 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.159 received: 0 packets
+The local IP 192.168.1.159 received this many DHCP packets: 0
+The local IP 192.168.1.159 received this many transport layer packets: 0
+This local IP 192.168.1.159 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.160 sent: 0 packets
+The local IP 192.168.1.160 sent this many DHCP packets: 0
+The local IP 192.168.1.160 sent this many transport layer packets: 0
+This local IP 192.168.1.160 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.160 received: 0 packets
+The local IP 192.168.1.160 received this many DHCP packets: 0
+The local IP 192.168.1.160 received this many transport layer packets: 0
+This local IP 192.168.1.160 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.171 sent: 0 packets
+The local IP 192.168.1.171 sent this many DHCP packets: 0
+The local IP 192.168.1.171 sent this many transport layer packets: 0
+This local IP 192.168.1.171 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.171 received: 0 packets
+The local IP 192.168.1.171 received this many DHCP packets: 0
+The local IP 192.168.1.171 received this many transport layer packets: 0
+This local IP 192.168.1.171 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.172 sent: 0 packets
+The local IP 192.168.1.172 sent this many DHCP packets: 0
+The local IP 192.168.1.172 sent this many transport layer packets: 0
+This local IP 192.168.1.172 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.172 received: 0 packets
+The local IP 192.168.1.172 received this many DHCP packets: 0
+The local IP 192.168.1.172 received this many transport layer packets: 0
+This local IP 192.168.1.172 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.189 sent: 0 packets
+The local IP 192.168.1.189 sent this many DHCP packets: 0
+The local IP 192.168.1.189 sent this many transport layer packets: 0
+This local IP 192.168.1.189 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.189 received: 0 packets
+The local IP 192.168.1.189 received this many DHCP packets: 0
+The local IP 192.168.1.189 received this many transport layer packets: 0
+This local IP 192.168.1.189 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.199 sent: 0 packets
+The local IP 192.168.1.199 sent this many DHCP packets: 0
+The local IP 192.168.1.199 sent this many transport layer packets: 0
+This local IP 192.168.1.199 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.199 received: 0 packets
+The local IP 192.168.1.199 received this many DHCP packets: 0
+The local IP 192.168.1.199 received this many transport layer packets: 0
+This local IP 192.168.1.199 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.201 sent: 0 packets
+The local IP 192.168.1.201 sent this many DHCP packets: 0
+The local IP 192.168.1.201 sent this many transport layer packets: 0
+This local IP 192.168.1.201 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.201 received: 0 packets
+The local IP 192.168.1.201 received this many DHCP packets: 0
+The local IP 192.168.1.201 received this many transport layer packets: 0
+This local IP 192.168.1.201 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.202 sent: 0 packets
+The local IP 192.168.1.202 sent this many DHCP packets: 0
+The local IP 192.168.1.202 sent this many transport layer packets: 0
+This local IP 192.168.1.202 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.202 received: 0 packets
+The local IP 192.168.1.202 received this many DHCP packets: 0
+The local IP 192.168.1.202 received this many transport layer packets: 0
+This local IP 192.168.1.202 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.203 sent: 0 packets
+The local IP 192.168.1.203 sent this many DHCP packets: 0
+The local IP 192.168.1.203 sent this many transport layer packets: 0
+This local IP 192.168.1.203 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.203 received: 0 packets
+The local IP 192.168.1.203 received this many DHCP packets: 0
+The local IP 192.168.1.203 received this many transport layer packets: 0
+This local IP 192.168.1.203 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.204 sent: 0 packets
+The local IP 192.168.1.204 sent this many DHCP packets: 0
+The local IP 192.168.1.204 sent this many transport layer packets: 0
+This local IP 192.168.1.204 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.204 received: 0 packets
+The local IP 192.168.1.204 received this many DHCP packets: 0
+The local IP 192.168.1.204 received this many transport layer packets: 0
+This local IP 192.168.1.204 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.205 sent: 0 packets
+The local IP 192.168.1.205 sent this many DHCP packets: 0
+The local IP 192.168.1.205 sent this many transport layer packets: 0
+This local IP 192.168.1.205 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.205 received: 0 packets
+The local IP 192.168.1.205 received this many DHCP packets: 0
+The local IP 192.168.1.205 received this many transport layer packets: 0
+This local IP 192.168.1.205 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.206 sent: 0 packets
+The local IP 192.168.1.206 sent this many DHCP packets: 0
+The local IP 192.168.1.206 sent this many transport layer packets: 0
+This local IP 192.168.1.206 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.206 received: 0 packets
+The local IP 192.168.1.206 received this many DHCP packets: 0
+The local IP 192.168.1.206 received this many transport layer packets: 0
+This local IP 192.168.1.206 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.207 sent: 0 packets
+The local IP 192.168.1.207 sent this many DHCP packets: 0
+The local IP 192.168.1.207 sent this many transport layer packets: 0
+This local IP 192.168.1.207 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.207 received: 0 packets
+The local IP 192.168.1.207 received this many DHCP packets: 0
+The local IP 192.168.1.207 received this many transport layer packets: 0
+This local IP 192.168.1.207 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.208 sent: 0 packets
+The local IP 192.168.1.208 sent this many DHCP packets: 0
+The local IP 192.168.1.208 sent this many transport layer packets: 0
+This local IP 192.168.1.208 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.208 received: 0 packets
+The local IP 192.168.1.208 received this many DHCP packets: 0
+The local IP 192.168.1.208 received this many transport layer packets: 0
+This local IP 192.168.1.208 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.209 sent: 0 packets
+The local IP 192.168.1.209 sent this many DHCP packets: 0
+The local IP 192.168.1.209 sent this many transport layer packets: 0
+This local IP 192.168.1.209 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.209 received: 0 packets
+The local IP 192.168.1.209 received this many DHCP packets: 0
+The local IP 192.168.1.209 received this many transport layer packets: 0
+This local IP 192.168.1.209 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.222 sent: 0 packets
+The local IP 192.168.1.222 sent this many DHCP packets: 0
+The local IP 192.168.1.222 sent this many transport layer packets: 0
+This local IP 192.168.1.222 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.222 received: 0 packets
+The local IP 192.168.1.222 received this many DHCP packets: 0
+The local IP 192.168.1.222 received this many transport layer packets: 0
+This local IP 192.168.1.222 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.224 sent: 0 packets
+The local IP 192.168.1.224 sent this many DHCP packets: 0
+The local IP 192.168.1.224 sent this many transport layer packets: 0
+This local IP 192.168.1.224 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.224 received: 0 packets
+The local IP 192.168.1.224 received this many DHCP packets: 0
+The local IP 192.168.1.224 received this many transport layer packets: 0
+This local IP 192.168.1.224 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.241 sent: 0 packets
+The local IP 192.168.1.241 sent this many DHCP packets: 0
+The local IP 192.168.1.241 sent this many transport layer packets: 0
+This local IP 192.168.1.241 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.241 received: 0 packets
+The local IP 192.168.1.241 received this many DHCP packets: 0
+The local IP 192.168.1.241 received this many transport layer packets: 0
+This local IP 192.168.1.241 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.242 sent: 0 packets
+The local IP 192.168.1.242 sent this many DHCP packets: 0
+The local IP 192.168.1.242 sent this many transport layer packets: 0
+This local IP 192.168.1.242 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.242 received: 0 packets
+The local IP 192.168.1.242 received this many DHCP packets: 0
+The local IP 192.168.1.242 received this many transport layer packets: 0
+This local IP 192.168.1.242 received transport layer packets using these ports:
+
+On the local network, IP 192.168.1.254 sent: 0 packets
+The local IP 192.168.1.254 sent this many DHCP packets: 0
+The local IP 192.168.1.254 sent this many transport layer packets: 0
+This local IP 192.168.1.254 sent transport layer packets using these ports:
+
+On the local network, IP 192.168.1.254 received: 0 packets
+The local IP 192.168.1.254 received this many DHCP packets: 0
+The local IP 192.168.1.254 received this many transport layer packets: 0
+This local IP 192.168.1.254 received transport layer packets using these ports:
+
+These are the global IPs that communicated with our local network:
+['34.0.64.52', '155.133.252.39', '239.145.145.145', '34.0.64.50', '224.0.0.251', '239.114.114.114']
+----------------------------------------------------------------------
+From global IP address: 34.0.64.52, the number of packets sent to our local network were: 24
+Detailed explanation about the exchanged packets from 34.0.64.52:
+
+24 packets were sent to this local IP address: 192.168.1.148
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.148:
+
+Global IP 34.0.64.52 used this port 50003 for sending this many packets: 24
+Local IP 192.168.1.148 used this port 60768 for receiving this many packets: 24
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.1
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.1:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.10
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.10:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.24
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.24:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.36
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.36:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.48
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.48:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.54
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.54:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.100
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.100:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.111
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.111:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.112
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.112:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.113
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.113:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.159
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.159:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.160
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.160:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.171
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.171:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.172
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.172:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.189
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.189:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.199
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.199:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.201
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.201:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.202
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.202:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.203
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.203:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.204
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.204:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.205
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.205:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.206
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.206:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.207
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.207:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.208
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.208:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.209
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.209:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.222
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.222:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.224
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.224:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.241
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.241:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.242
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.242:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.254
+
+From this global IP 34.0.64.52 to this local IP 192.168.1.254:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+From global IP address: 155.133.252.39, the number of packets sent to our local network were: 1
+Detailed explanation about the exchanged packets from 155.133.252.39:
+
+1 packets were sent to this local IP address: 192.168.1.148
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.148:
+
+Global IP 155.133.252.39 used this port 27021 for sending this many packets: 1
+Local IP 192.168.1.148 used this port 51019 for receiving this many packets: 1
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.1
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.1:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.10
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.10:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.24
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.24:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.36
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.36:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.48
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.48:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.54
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.54:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.100
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.100:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.111
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.111:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.112
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.112:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.113
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.113:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.159
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.159:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.160
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.160:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.171
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.171:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.172
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.172:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.189
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.189:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.199
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.199:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.201
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.201:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.202
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.202:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.203
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.203:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.204
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.204:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.205
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.205:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.206
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.206:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.207
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.207:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.208
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.208:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.209
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.209:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.222
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.222:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.224
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.224:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.241
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.241:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.242
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.242:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.254
+
+From this global IP 155.133.252.39 to this local IP 192.168.1.254:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+From global IP address: 239.145.145.145, the number of packets sent to our local network were: 0
+Detailed explanation about the exchanged packets from 239.145.145.145:
+
+0 packets were sent to this local IP address: 192.168.1.148
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.148:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.1
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.1:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.10
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.10:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.24
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.24:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.36
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.36:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.48
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.48:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.54
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.54:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.100
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.100:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.111
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.111:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.112
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.112:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.113
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.113:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.159
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.159:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.160
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.160:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.171
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.171:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.172
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.172:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.189
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.189:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.199
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.199:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.201
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.201:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.202
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.202:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.203
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.203:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.204
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.204:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.205
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.205:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.206
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.206:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.207
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.207:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.208
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.208:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.209
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.209:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.222
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.222:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.224
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.224:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.241
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.241:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.242
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.242:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.254
+
+From this global IP 239.145.145.145 to this local IP 192.168.1.254:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+From global IP address: 34.0.64.50, the number of packets sent to our local network were: 1
+Detailed explanation about the exchanged packets from 34.0.64.50:
+
+1 packets were sent to this local IP address: 192.168.1.148
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.148:
+
+Global IP 34.0.64.50 used this port 50003 for sending this many packets: 1
+Local IP 192.168.1.148 used this port 65233 for receiving this many packets: 1
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.1
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.1:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.10
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.10:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.24
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.24:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.36
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.36:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.48
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.48:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.54
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.54:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.100
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.100:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.111
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.111:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.112
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.112:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.113
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.113:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.159
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.159:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.160
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.160:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.171
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.171:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.172
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.172:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.189
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.189:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.199
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.199:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.201
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.201:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.202
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.202:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.203
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.203:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.204
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.204:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.205
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.205:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.206
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.206:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.207
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.207:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.208
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.208:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.209
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.209:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.222
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.222:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.224
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.224:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.241
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.241:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.242
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.242:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.254
+
+From this global IP 34.0.64.50 to this local IP 192.168.1.254:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+From global IP address: 224.0.0.251, the number of packets sent to our local network were: 0
+Detailed explanation about the exchanged packets from 224.0.0.251:
+
+0 packets were sent to this local IP address: 192.168.1.148
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.148:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.1
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.1:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.10
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.10:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.24
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.24:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.36
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.36:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.48
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.48:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.54
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.54:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.100
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.100:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.111
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.111:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.112
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.112:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.113
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.113:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.159
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.159:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.160
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.160:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.171
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.171:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.172
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.172:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.189
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.189:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.199
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.199:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.201
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.201:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.202
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.202:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.203
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.203:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.204
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.204:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.205
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.205:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.206
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.206:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.207
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.207:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.208
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.208:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.209
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.209:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.222
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.222:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.224
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.224:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.241
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.241:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.242
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.242:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.254
+
+From this global IP 224.0.0.251 to this local IP 192.168.1.254:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+From global IP address: 239.114.114.114, the number of packets sent to our local network were: 0
+Detailed explanation about the exchanged packets from 239.114.114.114:
+
+0 packets were sent to this local IP address: 192.168.1.148
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.148:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.1
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.1:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.10
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.10:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.24
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.24:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.36
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.36:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.48
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.48:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.54
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.54:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.100
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.100:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.111
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.111:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.112
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.112:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.113
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.113:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.159
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.159:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.160
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.160:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.171
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.171:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.172
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.172:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.189
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.189:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.199
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.199:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.201
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.201:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.202
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.202:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.203
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.203:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.204
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.204:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.205
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.205:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.206
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.206:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.207
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.207:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.208
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.208:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.209
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.209:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.222
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.222:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.224
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.224:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.241
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.241:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.242
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.242:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+0 packets were sent to this local IP address: 192.168.1.254
+
+From this global IP 239.114.114.114 to this local IP 192.168.1.254:
+
+0 ports were in use because all packets exchanged were below the transport layer, or 0 packets were exchanged between them.
+----------------------------------------------------------------------
+
+Process finished with exit code 0
